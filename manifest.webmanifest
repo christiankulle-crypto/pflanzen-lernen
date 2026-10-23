@@ -1,0 +1,31 @@
+{
+ "name": "Pflanzen lernen Kurs 01",
+ "short_name": "Pflanzen",
+ "description": "Gehölze der DEULA-Pflanzenliste lernen",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#2f5d3a",
+ "theme_color": "#2f5d3a",
+ "lang": "de",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
